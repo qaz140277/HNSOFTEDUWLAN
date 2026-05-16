@@ -1,6 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="src/HnEduAuth.Service/HnEduAuth.Service.csproj" />
-    <Project Path="src/HnEduAuth.UI/HnEduAuth.UI.csproj" />
-  </Folder>
-</Solution>
